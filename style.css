@@ -1,0 +1,22 @@
+.palindromes {
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    border: solid;
+}
+#text_id {
+    display: block;
+    width: 280px;
+    height: 80px;
+    border: solid;
+    background-color: white;
+    font-size: large;
+    margin: 7px;
+}
+#b {
+    width: 280px;
+    height: 30px;
+    background-color: white;
+    border: solid;
+    margin: 7px;
+}
